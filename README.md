@@ -1,7 +1,5 @@
 # oneshotgalvaknuckles
 Permanent One-Shot Galvaknuckles for Plutonium T6
--------------------------------------------------
-Installation:
-Download the .zip from releases or the Plutonium forum post  
-Paste the contents of that .zip into %localappdata%\Plutonium\storage\t6\scripts\zm  
-Ta-da! You now have Galvaknuckles that always one-shot!
+-------------------------------------------------  
+All this script is can be seen in replaced/infdmggalv.gsc  
+It's just another line in the actor_damage_override
